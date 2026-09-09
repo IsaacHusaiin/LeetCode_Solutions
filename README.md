@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
