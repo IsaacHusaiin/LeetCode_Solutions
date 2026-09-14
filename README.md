@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -37,10 +39,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0577-employee-bonus) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
