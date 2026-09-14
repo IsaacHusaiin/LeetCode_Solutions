@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0577-employee-bonus) |
+| [1075-project-employees-i](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/1075-project-employees-i) |
 ## Divide and Conquer
 |  |
 | ------- |
