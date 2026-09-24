@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
