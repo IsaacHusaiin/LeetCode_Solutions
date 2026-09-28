@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
