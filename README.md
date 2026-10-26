@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 ## Trie
@@ -113,4 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/IsaacHusaiin/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
